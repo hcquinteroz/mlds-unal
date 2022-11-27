@@ -1,0 +1,8 @@
+# Ignorar archivo .DS_Store
+.DS_Store
+
+# Ignorar los videos comprimidos
+*.zip
+
+# Ignorar los videos sin comprimir
+*.mp4
